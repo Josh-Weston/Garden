@@ -19,6 +19,9 @@
 // + added error codes
 //
 
+
+//Note: DH11 Sensor only allows precision to 1 degree Celsius.
+
 #include "Sensors.h"
 #include "Arduino.h"
 
