@@ -1,3 +1,5 @@
 This is a test of accessing git from Raspberry PI.
 
 Cloning worked fine, what about committing?
+
+This is the remote version, what now sucka?
