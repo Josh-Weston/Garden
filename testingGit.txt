@@ -3,3 +3,5 @@ This is a test of accessing git from Raspberry PI.
 Cloning worked fine, what about committing?
 
 This is the remote version, what now sucka?
+
+Making changes locally can happen, without making a commit. Once I commit, I can then send it back to the server
